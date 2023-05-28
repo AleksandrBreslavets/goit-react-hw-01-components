@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
+    "main.css": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/css/main.d238f333.css",
+    "main.js": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/js/main.613b44d7.js",
     "index.html": "/AleksandrBreslavets/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
+    "main.d238f333.css.map": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/css/main.d238f333.css.map",
+    "main.613b44d7.js.map": "/AleksandrBreslavets/goit-react-hw-01-components.git/static/js/main.613b44d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.d238f333.css",
+    "static/js/main.613b44d7.js"
   ]
 }
